@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ![VeraGD](https://github-readme-stats.vercel.app/api?username=VeraGD&show_icons=true&theme=radical)
 
-![VeraGD](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraGD&layout=compact&theme=radical)
+![VeraGD](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraGD&exclude_repo=Actividad_Fisica&layout=compact&theme=radical)
+
 
