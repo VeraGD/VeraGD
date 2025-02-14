@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C, Python and JavaScript
 - :books: I'm studing in 42 Urduliz
 - 📫 How to reach me: veragar107@gmail.com
 
