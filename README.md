@@ -32,14 +32,7 @@ Here are some ideas to get you started:
 
 ## Github statistics
 
-<!--
-![VeraGD](https://github-readme-stats.vercel.app/api?username=VeraGD&show_icons=true&theme=algolia)
--->
-
-![VeraGD](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraGD&layout=compact&theme=github)
-
-<!--
-![VeraGD](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraGD&exclude_repo=Actividad_Fisica&layout=compact&theme=algolia)
--->
-
-
+<p align="center">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=veragd&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Otmane's Most Used Languages" /></p>
+</p>
